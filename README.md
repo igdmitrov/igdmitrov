@@ -17,6 +17,9 @@
 <br />
 <br />
 
+### Stackoverflow profile
+<a href="https://stackexchange.com/users/3398925"><img src="https://stackexchange.com/users/flair/3398925.png" width="208" height="58" alt="profile for igdmitrov on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for igdmitrov on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ### Languages and Tools
 
 <img src="https://img.icons8.com/color/48/000000/dynamics-365.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
