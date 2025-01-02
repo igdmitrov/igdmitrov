@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/igdmitrov?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: IgorDmitrov](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/igor-dmitrov-81a96622b/)][linkedin]
 
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**Twitter**][twitter]
 
 ### Connect With Me
 
